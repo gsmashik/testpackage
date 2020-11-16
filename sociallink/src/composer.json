@@ -1,0 +1,22 @@
+{
+    "name": "olee/sociallink",
+    "description": "Simple Social Link Crud",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Olee Ahmmed",
+            "email": "oleetechs@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+       
+        "psr-4": {
+            "olee\\sociallink\\": "packages/olee/sociallink/src"
+            
+        }
+    }
+
+}
